@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Code Runner / IDE files
+tempCodeRunnerFile.py
+.vscode/
+.idea/
